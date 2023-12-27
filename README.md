@@ -47,4 +47,28 @@ meticulous maintenance is instrumental in eliminating vulnerabilities and potent
 cyberattacks. By regularly integrating these updates, the script effectively neutralizes emerging security
 concerns, thereby reducing the system's susceptibility to exploitation.
 
+## Function#2:APPSYS_SECURITY:
+The Android system's security is bolstered by a comprehensive security strategy that incorporates various
+advanced measures to enhance overall security. Each component of this strategy serves a distinct yet crucial role
+in strengthening the system's defenses. This multi-layered approach encompasses hardware, operating system,
+network, and application security, as well as data protection and industry standards. This approach is designed
+to address the growing number of cybersecurity challenges and protect against mobile security threats, making
+it essential for ensuring strong mobile security measures
 
+## Function#3:BACKUP_AND_LOG_GENERATE:
+The BACKUP_AND_LOG_GENERATE.sh script assumes a pivotal role in the realms of data preservation and
+security enhancement. It serves as a linchpin in the meticulous maintenance of an Android system by fulfilling
+two key functions:
+1. System Activity Logging
+2. Data Backup Creation
+
+## Function#4:LOGALYSIS:
+LOGALYSIS.py is a script with a distinct and crucial role in the realm of cybersecurity and system
+management. Its core responsibility revolves around the meticulous analysis of the log files that are generated
+by the system. This analytical process is of paramount significance, serving as the cornerstone of real-time
+security monitoring and incident response.
+
+## Conclusion
+The project sought to address this concern for offensice as well as defensive standpoint with the focus on detecting vulnerabilities and implementing preventive measures. Our work in this project has not only
+enhanced our understanding of Android security but also provided valuable insights for the broader community
+in the ongoing effort to protect Android devices from evolving threats.
