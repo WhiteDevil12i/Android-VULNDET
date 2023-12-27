@@ -18,16 +18,7 @@ application using LOG ANALYSIS script. This work also aims to prevent malicious 
 platform by using proposed security rules.
 
 ## Contribution
-The contributions of this research paper are twofold: Firstly, it provides a systematic and in-depth analysis of
-vulnerabilities within the Android platform ecosystem, offering a comprehensive understanding of potential
-weak points. By simulating real-world attack scenarios, we shed light on the tactics used by malicious actors,
-which can be instrumental in strengthening security measures. Secondly, the paper proposes effective mitigation
-strategies, including multi-layered defense mechanisms such as secure coding practices, permission
-management, and enhanced access controls. These strategies aim to fortify the Android platform against
-unauthorized access and emerging threats, contributing significantly to the field of mobile device security.
-Overall, this research equips users, developers, and security professionals with the knowledge and tools
-necessary to enhance the security of Android devices, thus making a valuable contribution to the broader realm
-of mobile technology security.
+The contributions of this research paper are twofold: Firstly, we createdd the project by supportting the attacking phase so that we could get to now what was the outcome and what issues would be resolved. Secondly, we created the detection as well as prevention scripts which could help in making an android a safe place and also the project a successful work.
 
 
 ### Function#1:AV_AND_UPDATE:
